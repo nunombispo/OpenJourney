@@ -1,4 +1,4 @@
-# OpenJourney
+# Create your own Midjourney-style AI images on your computer
 You can now create your own Midjourney AI-generated images locally on your computer and without GPU.
 
 Do you dream of creating breathtaking AI images like the ones flooding your social media feeds? 
