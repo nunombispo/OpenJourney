@@ -11,4 +11,4 @@ True, it may take a little extra time, but patience is a virtue, and the result 
 
 So, what are you waiting for? Get ready to unleash your creativity, no special equipment is necessary.
 
-Link to full article on Developer Service Blog:
+Link to full article on Developer Service Blog: https://developer.developer-service.io/create-your-own-midjourney-ai-images-on-your-computer/
