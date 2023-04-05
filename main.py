@@ -7,7 +7,7 @@ pipe = pipe.to("cpu")
 
 # Prompt
 prompt = input("Enter a prompt: ")
-prompt = prompt + 'mdjrny-v4 style'
+prompt = prompt + ' mdjrny-v4 style'
 
 # Generate image
 image = pipe(prompt).images[0]
